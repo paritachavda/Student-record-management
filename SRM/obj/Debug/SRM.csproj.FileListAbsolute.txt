@@ -1,0 +1,129 @@
+C:\Users\Tajal\Desktop\SDP PROJECT\SRM\SRM\obj\Debug\SRM.csprojResolveAssemblyReference.cache
+G:\new srm\SRM\bin\roslyn\csc.exe
+G:\new srm\SRM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\new srm\SRM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\new srm\SRM\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\new srm\SRM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\new srm\SRM\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\new srm\SRM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\new srm\SRM\bin\roslyn\System.Collections.Immutable.dll
+G:\new srm\SRM\bin\roslyn\System.Reflection.Metadata.dll
+G:\new srm\SRM\bin\roslyn\vbc.exe
+G:\new srm\SRM\bin\roslyn\VBCSCompiler.exe
+G:\new srm\SRM\bin\roslyn\VBCSCompiler.exe.config
+G:\new srm\SRM\bin\SRM.dll.config
+G:\new srm\SRM\bin\SRM.dll
+G:\new srm\SRM\bin\SRM.pdb
+G:\new srm\SRM\bin\Microsoft.AI.Agent.Intercept.dll
+G:\new srm\SRM\bin\Microsoft.AI.DependencyCollector.dll
+G:\new srm\SRM\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\new srm\SRM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\new srm\SRM\bin\Microsoft.AI.Web.dll
+G:\new srm\SRM\bin\Microsoft.AI.WindowsServer.dll
+G:\new srm\SRM\bin\Microsoft.ApplicationInsights.dll
+G:\new srm\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\new srm\SRM\bin\Microsoft.AI.DependencyCollector.xml
+G:\new srm\SRM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\new srm\SRM\bin\Microsoft.AI.Web.xml
+G:\new srm\SRM\bin\Microsoft.AI.WindowsServer.xml
+G:\new srm\SRM\bin\Microsoft.ApplicationInsights.xml
+G:\new srm\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\new srm\SRM\obj\Debug\SRM.csprojResolveAssemblyReference.cache
+G:\new srm\SRM\obj\Debug\SRM.dll
+G:\new srm\SRM\obj\Debug\SRM.pdb
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\csc.exe
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\vbc.exe
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\VBCSCompiler.exe
+C:\Users\PARITA\Desktop\new srm\SRM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PARITA\Desktop\new srm\SRM\bin\SRM.dll.config
+C:\Users\PARITA\Desktop\new srm\SRM\bin\SRM.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\SRM.pdb
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.Web.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.Web.xml
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PARITA\Desktop\new srm\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PARITA\Desktop\new srm\SRM\obj\Debug\SRM.csprojResolveAssemblyReference.cache
+C:\Users\PARITA\Desktop\new srm\SRM\obj\Debug\SRM.dll
+C:\Users\PARITA\Desktop\new srm\SRM\obj\Debug\SRM.pdb
+C:\Users\PARITA\Desktop\srm 22 march\SRM\obj\Debug\SRM.csprojResolveAssemblyReference.cache
+C:\Users\PARITA\Desktop\srm 22 march\SRM\obj\Debug\SRM.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\obj\Debug\SRM.pdb
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\csc.exe
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\vbc.exe
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\VBCSCompiler.exe
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\SRM.dll.config
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\SRM.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\SRM.pdb
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.Web.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.Web.xml
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PARITA\Desktop\srm 22 march\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\csc.exe
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\System.Collections.Immutable.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\System.Reflection.Metadata.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\vbc.exe
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\VBCSCompiler.exe
+C:\D-drive-1807640265\srm 22 march\SRM\bin\roslyn\VBCSCompiler.exe.config
+C:\D-drive-1807640265\srm 22 march\SRM\bin\SRM.dll.config
+C:\D-drive-1807640265\srm 22 march\SRM\bin\SRM.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\SRM.pdb
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.Agent.Intercept.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.DependencyCollector.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.Web.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.WindowsServer.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.ApplicationInsights.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.DependencyCollector.xml
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.Web.xml
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.AI.WindowsServer.xml
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.ApplicationInsights.xml
+C:\D-drive-1807640265\srm 22 march\SRM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D-drive-1807640265\srm 22 march\SRM\obj\Debug\SRM.csprojResolveAssemblyReference.cache
+C:\D-drive-1807640265\srm 22 march\SRM\obj\Debug\SRM.dll
+C:\D-drive-1807640265\srm 22 march\SRM\obj\Debug\SRM.pdb
